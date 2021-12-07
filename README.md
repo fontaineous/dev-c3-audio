@@ -1,6 +1,6 @@
-Audio testing with the teensy audio sheield and a ESP32-C3-DevKitC-02
+# Audio testing with the teensy audio sheield and a ESP32-C3-DevKitC-02
 
-# _Sample project_
+# stuff below is boilerplate from esp -- needs updating
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
